@@ -1,0 +1,5 @@
+
+
+enum AuthStates{
+  PHONE, PASSWORD, SMS_CODE, LOADING
+}
